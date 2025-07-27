@@ -22,3 +22,8 @@ pip install -r requirements.txt
 # Run app
 
 python app.py
+
+# Author
+
+Developed by Makwana Suman
+📧 Contact: sumanbenmakwana3@gmail.com
