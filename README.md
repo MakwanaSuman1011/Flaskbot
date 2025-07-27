@@ -26,4 +26,4 @@ python app.py
 # Author
 
 Developed by Makwana Suman
-📧 Contact: sumanbenmakwana3@gmail.com
+Contact: sumanbenmakwana3@gmail.com
