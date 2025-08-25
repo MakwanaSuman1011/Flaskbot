@@ -1,0 +1,48 @@
+{
+  "hi": "Hello! How can I assist you today?",
+  "hello": "Hi there! Need any help?",
+  "hey": "Hey! I'm here to assist you.",
+  "hy": "Hi! How can I help you?",
+  "good morning": "Good morning! Hope you have a great day ahead!",
+  "good afternoon": "Good afternoon! How can I support you today?",
+  "good evening": "Good evening! What can I help you with?",
+  "what's up": "Just here to answer your questions!",
+  "who are you": "I'm your AI Assistant. Ask me anything!",
+  "what are you doing":"I'm here to help you with any questions or tasks you have. How can I assist you today?",
+  "list of programing languages":"Programming languages are tools used by developers to communicate with computers and create software. Some of the most widely used general-purpose languages include Python, Java, C, C++, C#, JavaScript, Go, Ruby, Swift, Kotlin, and Rust. For web development, languages such as HTML (markup), CSS (styling), JavaScript, TypeScript, PHP, ASP.NET, and Dart are popular choices. In the fields of data science, artificial intelligence, and machine learning, languages like Python, R, Julia, MATLAB, and Scala are commonly used. Mobile application development often relies on Java and Kotlin for Android, Swift for iOS, and Dart (via Flutter) for cross-platform apps. System-level programming is typically done using C, C++, Rust, or Assembly, while scripting and automation tasks often use Python, Bash, PowerShell, or Perl. Game development frequently involves C++, C# (with Unity), Lua, and JavaScript-based frameworks. Each programming language has unique strengths, making it suitable for specific domains, projects, and development needs.",
+
+  "what is your name": "I'm your AI Assistant!",
+  "how are you": "I'm just code, but I'm functioning perfectly!",
+  "what can you do": "I can answer questions, explain concepts, and help you learn.",
+  "tell me a joke": "Why did the computer get cold? Because it forgot to close its Windows!",
+  "who created you": "I was created by developers using artificial intelligence.",
+  "do you have emotions": "Nope! I’m just logic and algorithms.",
+  "can you help me study": "Absolutely! Ask me anything you're curious about.",
+  "what is the time now": "I'm not connected to a clock, but you can check your device for the current time.",
+  "who is elon musk": "Elon Musk is the CEO of Tesla and SpaceX.",
+  "what is climate change": "Climate change is a long-term shift in temperatures and weather patterns.",
+
+  "who is the president of india": "The President of India is Droupadi Murmu.",
+  "what is the national animal of india": "The national animal of India is the Bengal Tiger.",
+  "what is the national flower of india": "The national flower of India is the Lotus.",
+  "how many states in india": "India has 28 states and 8 Union Territories.",
+  "who is the father of india": "Mahatma Gandhi is known as the Father of the Nation in India.",
+  "largest river in india": "The Ganga is the longest river in India.",
+
+  "what is the internet": "The internet is a global network that connects millions of computers for communication and data sharing.",
+  "what is html": "HTML stands for HyperText Markup Language, used for creating web pages.",
+  "what is css": "CSS stands for Cascading Style Sheets, used to style HTML elements.",
+  "what is javascript": "JavaScript is a programming language used to make web pages interactive.",
+  "what is github": "GitHub is a platform for hosting and sharing code using Git version control.",
+
+  "what is deep learning": "Deep Learning is a type of machine learning using neural networks with many layers.",
+  "what is neural network": "A Neural Network is a model inspired by the human brain to recognize patterns and solve complex problems.",
+  "what is natural language processing": "NLP is a field of AI that focuses on the interaction between computers and human languages.",
+  "difference between ai and ml": "AI is the broader concept, while ML is a subset of AI focused on learning from data.",
+
+
+  "uses of python": "Python is used in web development, data science, AI, automation, and more."
+
+
+
+}
